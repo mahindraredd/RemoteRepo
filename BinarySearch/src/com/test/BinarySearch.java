@@ -31,7 +31,7 @@ public class BinarySearch {
 			}
 		}
 		
-
+		System.out.println("this is the Binary SEarch");
 	}
 
 }
